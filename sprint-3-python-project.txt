@@ -1,2 +1,2 @@
 Task 1.  Cleaned missing Names and DOB
-Filtered out ID numbers
+Filtered out Null ID numbers
